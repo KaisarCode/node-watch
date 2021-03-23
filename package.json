@@ -1,6 +1,6 @@
 {
   "name": "kc-watch",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "[nodejs] Watch file changes.",
   "main": "index.js",
   "repository": {
