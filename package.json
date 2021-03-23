@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/node-watch.git"
+    "url": "https://github.com/kaisarsnippets/node-watch.git"
   },
   "keywords": [
     "watch",
@@ -15,7 +15,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/node-watch/issues"
+    "url": "https://github.com/kaisarsnippets/node-watch/issues"
   },
-  "homepage": "https://github.com/KaisarCode/node-watch"
+  "homepage": "https://github.com/kaisarsnippets/node-watch"
 }
